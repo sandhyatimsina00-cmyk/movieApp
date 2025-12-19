@@ -43,6 +43,10 @@ Release notes are maintained in this README under the following format:
 
 ### v1.0.0 – YYYY-MM-DD
 
+- v1 --> release version
+- 0 --> initial feature set
+- 0 --> no patch yet
+
 #### ✨ Features
 
 - Feature description
