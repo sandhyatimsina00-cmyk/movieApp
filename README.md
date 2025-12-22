@@ -1,6 +1,56 @@
+## 🎬 Movie App (React)
+
+A modern movie browsing React application built using component-based architecture and custom hooks.
+The project follows a professional Git workflow, includes CI/CD with GitHub Actions, and is deployed to Vercel.
+
 ## Project Information
 
-This is movie app on react
+This Movie App allows users to search for movies, view details, and interact with movie data through a clean and responsive UI.
+It is designed as a single-page application (SPA) with scalability and maintainability in mind.
+
+## 🚀 Tech Stack
+
+React
+
+Vite
+
+JavaScript (ES6+)
+
+CSS
+
+Git & GitHub
+
+GitHub Actions (CI/CD)
+
+Vercel (Production Deployment)
+
+## ✨ Key Features
+
+Movie search functionality
+
+Reusable React components
+
+Custom React hooks for logic separation
+
+Local storage state management
+
+Clean folder and component structure
+
+Automated deployment via CI/CD
+
+## ⚙️ Getting Started
+
+## Installation
+git clone https://github.com/your-username/movieApp.git
+cd movieApp
+npm install
+npm run dev
+
+##🌍 Deployment
+
+- Automatically deployed on Vercel
+
+- Deployment triggered when changes are merged into the dev branch via GitHub Actions
 
 ## Development Workflow Guide
 
@@ -49,12 +99,22 @@ Release notes are maintained in this README under the following format:
 
 #### ✨ Features
 
-- Feature description
+- Core movie browsing functionality
+
+- Component-based React architecture
+
+- Custom hooks for state and logic
+
+- Local storage integration
 
 #### 🐛 Bug Fixes
 
-- Bug fix description
+- N/A (initial release)
 
 #### 🔧 Improvements
 
-- Improvement description
+- Clean and scalable folder structure
+
+- CI/CD pipeline integration
+
+- Optimized deployment workflow
