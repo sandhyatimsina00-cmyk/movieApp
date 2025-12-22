@@ -42,9 +42,12 @@ Automated deployment via CI/CD
 
 ## Installation
 
-git clone https://github.com/your-username/movieApp.git
+git clone https://github.com/sandhyatimsina00-cmyk/movieApp.git
+
 cd movieApp
+
 npm install
+
 npm run dev
 
 ##🌍 Deployment
