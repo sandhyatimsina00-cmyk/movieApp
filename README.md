@@ -41,6 +41,7 @@ Automated deployment via CI/CD
 ## ⚙️ Getting Started
 
 ## Installation
+
 git clone https://github.com/your-username/movieApp.git
 cd movieApp
 npm install
