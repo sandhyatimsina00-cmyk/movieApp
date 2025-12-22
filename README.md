@@ -50,7 +50,7 @@ npm install
 
 npm run dev
 
-##🌍 Deployment
+## 🌍 Deployment
 
 - Automatically deployed on Vercel
 
