@@ -8,6 +8,8 @@ The project follows a professional Git workflow, includes CI/CD with GitHub Acti
 This Movie App allows users to search for movies, view details, and interact with movie data through a clean and responsive UI.
 It is designed as a single-page application (SPA) with scalability and maintainability in mind.
 
+<img width="1245" height="898" alt="image" src="https://github.com/user-attachments/assets/15e5de55-7793-470b-9b35-bf01eb86fe36" />
+
 ## 🚀 Tech Stack
 
 React
